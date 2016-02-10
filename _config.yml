@@ -1,7 +1,7 @@
 name: Marshall-Moore_families
 favicon: null
-layout_spectrum: 0.3156953528523445
-typography_spectrum: 0.710195860825479
+layout_spectrum: 0.49654
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3865898868534714
-  lightness: 0.2003256599418819
+    - '#ffffff'
+    - '#552200'
+    - '#005544'
+    - '#80b3ff'
+    - '#ff7315'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5073264345992357
-  rhythmicContrast: 0.391309606609866
+  rhythmicContrast: 0.75
 purpose: []
