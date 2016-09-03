@@ -1,20 +1,4 @@
-name: Marshall-Moore Families
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.61571
-title: MARSHALL MOORE FAMILIES
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.25
   saturation: 0.25
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Marshall-Moore Families
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: MARSHALL MOORE FAMILIES
+description: The Official Site Of The Marshall & Moore Families
 purpose: []
