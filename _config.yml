@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: TWITTER
+    id: 569281d1-7d34-4bbe-a9c6-9b235d71cc2c
+    type: content
 favicon: null
 title: MARSHALL MOORE FAMILIES
 description: The Official Site Of The Marshall & Moore Families
