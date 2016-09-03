@@ -37,18 +37,17 @@ keywords:
   - short
   - http
   - youtube
-description: 'The latest Tweets from Marshall Moore (@Marshall_Moore1). The TWITTER page for the Marshall & Moore Families. Mayflower, AR'
+description: ''
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/Marshall_Moore1'
-datePublished: '2016-02-10T19:11:56.565Z'
-dateModified: '2016-02-10T19:04:01.871Z'
+datePublished: '2016-08-31T22:10:23.329Z'
+dateModified: '2016-08-31T22:10:23.012Z'
 title: ''
 sourcePath: _posts/2016-02-10-the-latest-tweets-from-marshall-moore-marshall_moore1-th.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: 569281d1-7d34-4bbe-a9c6-9b235d71cc2c/index.html
 _type: Comment
 _context: 'http://schema.org'
 
